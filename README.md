@@ -1,2 +1,2 @@
-# LLM_papers-
-This repo is used to collected LLM papers
+# LLM_papers
+This repo is used to collect LLM papers
