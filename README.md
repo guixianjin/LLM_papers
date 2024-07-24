@@ -6,8 +6,11 @@ This repository is used to record current LLM (large language model) papers publ
 <!-- #### Other similar repositories: -->
 
 
-#### Survey
+#### LLM Models
 + 
 
-#### ICML
+#### Training methods
+
+
+#### 
 
